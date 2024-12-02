@@ -1,3 +1,5 @@
 # power-bi-
 power bi grocery project
-n
+git lfs install
+
+
